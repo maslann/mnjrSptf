@@ -6,5 +6,6 @@ this is a test file
 ini file tes
 ya...
 
+apa kabar kalian semuanya
 
 
